@@ -1,0 +1,25 @@
+{
+  "proc_id": "PROC-2026-E4B05B",
+  "sealed_bids": {
+    "ENV-528BF96F7C10": {
+      "envelope_id": "ENV-528BF96F7C10",
+      "proc_id": "PROC-2026-E4B05B",
+      "bidder_username": "Jaliya",
+      "bidder_name": "Jaliya Charitha",
+      "organisation": "ABC",
+      "submitted_at": "2026-03-02T20:11:53.422164+00:00",
+      "commitment_hash": "b0f315393730e1da873dea447f8a1019019714ee3ce864a07f8343689d3f4b3a",
+      "signature_b64": "MGUCMQDA/r4WJ88W068d8WVjg9zPnN42rJRvptV1XzkJdUrGQ1diOJgDtUnNfaHduwxnol8CMEGMJJIUUbbxsgooUSVWumjV0wRjUxb+2jipQ/676xUyDuRE7fBi6t3N2hBCcxY07g==",
+      "enc_data": {
+        "ephemeral_pub_pem": "-----BEGIN PUBLIC KEY-----\nMHYwEAYHKoZIzj0CAQYFK4EEACIDYgAE6aJMCIkj41/SGmtMMLU1NPxH2FnXZMes\nIwKkSIFTnv+XdWuhfpJhgqvd5Iu7ca/MVFSw5bvN4Fn0dlFgc9BWGMq0/KIkaBfI\nVQ+SJPrhiuHmkLNuazOUoUUHMueedp+7\n-----END PUBLIC KEY-----\n",
+        "ciphertext_b64": "BHf4/NBKx/1VlK2YRXNmIvC4NlC+sKlv//hTOdz/nGOw40DoyEUujgzBSr0KQY+rVQQLDmMVpzXaIHbAjPOpEIU+554QgkWcnRiU6+hpp2KR6GHH0z9fQUcjcm7391LZvoyTjk2umg3KLTSl7H2RlQhWIHcRE2tS8HPVTwDGjngJX3LJmyVWgP6PnDERdxNDsWmGyHo5O6+YRa+M0+5rZ4z7gGwLxAY2GuCm6nEC2dGdiBd0/YKcPdk9wr2t680qX1iFJbo5DtGLStq7IePVBz0gLhJbdTFqNyucyG7c2SEtjjG2t9RTfigmnEFWj2qXZI8Cmx2yDFSQIJjOqfhbm3F2SDBnmYpSrcC+i/neDmpWldgTSVlXDK9xCgT7GfAarjLARQviYQRaWlVuI3Fj7NteNP2X7ta7",
+        "nonce_b64": "pskwSWftobOiUJZP"
+      },
+      "ts_token": {
+        "issued_at": "2026-03-02T20:11:53.421831+00:00",
+        "data_hash": "b0f315393730e1da873dea447f8a1019019714ee3ce864a07f8343689d3f4b3a",
+        "tsa_token": "a086a3f3ca8894effe0f83478ff1591c1049d96b0d23b6fa6eb913bca0751b89"
+      }
+    }
+  }
+}

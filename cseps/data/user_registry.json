@@ -1,0 +1,48 @@
+{
+  "users": {
+    "Bhanuka": {
+      "username": "Bhanuka",
+      "full_name": "Bhanuka Janappriya",
+      "organisation": "HOPE",
+      "role": "authority",
+      "salt": "a49d4f4ea95044957ac6585c0ce704d8",
+      "pw_hash": "0591d2899fcf3de00bfa9aaae0797a05098be9c645eb7770359d941d4c15c26d",
+      "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMHYwEAYHKoZIzj0CAQYFK4EEACIDYgAEUaAxUBpA4WRIXMZYH9uw1ziDslBXWEee\ngCj8wH8bU1TjA99sFv2Qq8/UfwClTxko00Yl1C7Kz4kzjH29aFtEorTTFLrb1I/G\nkuHg96Zzqw7xuiylHq+Tyv73jJEXmYNn\n-----END PUBLIC KEY-----\n",
+      "registered_at": "2026-03-02T19:52:08.917444+00:00",
+      "active": true
+    },
+    "Jaliya": {
+      "username": "Jaliya",
+      "full_name": "Jaliya Charitha",
+      "organisation": "ABC",
+      "role": "bidder",
+      "salt": "4f85468828df95ce6935b6485d36ebcf",
+      "pw_hash": "5c17da87e6a1f40f849548f8fdba589241a09384c1398b38df7ae72356e2b3c0",
+      "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMHYwEAYHKoZIzj0CAQYFK4EEACIDYgAEpZLKL3uxGuEu81XdQOsHeO0KGdaWSdFC\ngVoiZ3IQ1jePJZppZUY2u3dv8lgv6jbKT4yYM0bYh/8SYL3zeHUSvia9yXLHvUHV\n7Cna4ze8NkMStfv1uh7ozLOC25ImDqb9\n-----END PUBLIC KEY-----\n",
+      "registered_at": "2026-03-02T19:53:45.536947+00:00",
+      "active": true
+    },
+    "Gayan": {
+      "username": "Gayan",
+      "full_name": "Gayan Rangana",
+      "organisation": "BCC",
+      "role": "bidder",
+      "salt": "c4ac623afd9d84f33d8aa8c038079b77",
+      "pw_hash": "ec43046859c230e973ab9057c0fd1790f066c05c580fe148c313440557c9cc47",
+      "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMHYwEAYHKoZIzj0CAQYFK4EEACIDYgAEIkwZhWMo0ppzUa7ckGw4lPm4RGj5zicn\nwBQT4CUE2cUAa8wQMv4iOUY1ixL8WKLwRpUI47SXxMfZTKIMQkBbt4ZaEnBkQgEj\n3cHv958K4wChtv6QMSCCP5z9bhZeTBZ6\n-----END PUBLIC KEY-----\n",
+      "registered_at": "2026-03-02T19:54:27.517088+00:00",
+      "active": true
+    },
+    "EA": {
+      "username": "EA",
+      "full_name": "Evaluater_1",
+      "organisation": "eval_t",
+      "role": "evaluator",
+      "salt": "84132590829e2041d4aad997d39fad8a",
+      "pw_hash": "028439b4cd19373f6d72355d309f6b7f3a94b88411d053ba1f0b64d5098e1916",
+      "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMHYwEAYHKoZIzj0CAQYFK4EEACIDYgAEBeGnO5yTE2p+H/QbcE3yZNevVvgub8XP\nQDQ3XzlLYVsl9nHZd+pROmzR2XbwtJS6Mn2kd5sLWa7v8OOiQKDIhghkjh0ZDMX/\n90gsIP7xA+NNpkxz82mbLZY73SJ3JUTF\n-----END PUBLIC KEY-----\n",
+      "registered_at": "2026-03-02T19:55:31.371128+00:00",
+      "active": true
+    }
+  }
+}

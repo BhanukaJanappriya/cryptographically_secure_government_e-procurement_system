@@ -1,0 +1,242 @@
+{
+  "genesis": "0000000000000000000000000000000000000000000000000000000000000000",
+  "entries": [
+    {
+      "seq": 1,
+      "event_type": "USER_REGISTERED",
+      "actor": "Bhanuka",
+      "proc_id": "SYSTEM",
+      "timestamp": "2026-03-02T19:52:08.918147+00:00",
+      "payload": {
+        "username": "Bhanuka",
+        "role": "authority",
+        "organisation": "HOPE",
+        "key_fingerprint": "C22A53B78C489741"
+      },
+      "entry_hash": "fc1eb40514bee812acda038af97c58fdc390e2c4ae4462dc7f50c44a66146d28",
+      "chain_hash": "cf8f090981b3789ffe5f367e7e037532795afd85cc9139caefa1f384a586f07e",
+      "hmac_sig": "dcf69415f7debb3d75fdec0134a00ecc4b7e720ae66d23bd317813c7743894d4",
+      "ts_token": {
+        "issued_at": "2026-03-02T19:52:08.919395+00:00",
+        "data_hash": "fc1eb40514bee812acda038af97c58fdc390e2c4ae4462dc7f50c44a66146d28",
+        "tsa_token": "20fe52434c51b681492c16a6d063b3adb18a9efa19aa2288dad74b730e1386ed"
+      }
+    },
+    {
+      "seq": 2,
+      "event_type": "USER_REGISTERED",
+      "actor": "Jaliya",
+      "proc_id": "SYSTEM",
+      "timestamp": "2026-03-02T19:53:45.539364+00:00",
+      "payload": {
+        "username": "Jaliya",
+        "role": "bidder",
+        "organisation": "ABC",
+        "key_fingerprint": "36CCF186E0BFE40C"
+      },
+      "entry_hash": "2bc9d7b68f982ed669d8fb2ec2cef3980340d2c27f283ba30554fa797122ef00",
+      "chain_hash": "f337d3d2ffd641ef6cf7b2e52068bb997021b675c46fce4df8875ef319da3880",
+      "hmac_sig": "2ce09d1693150438fe0ae61ad216a69af83db53cc0be05156b4256b47c1afc9f",
+      "ts_token": {
+        "issued_at": "2026-03-02T19:53:45.539595+00:00",
+        "data_hash": "2bc9d7b68f982ed669d8fb2ec2cef3980340d2c27f283ba30554fa797122ef00",
+        "tsa_token": "b072fb258c87247b289dc340fd7776002e50e12e141fce1ee6f17471d485741c"
+      }
+    },
+    {
+      "seq": 3,
+      "event_type": "USER_REGISTERED",
+      "actor": "Gayan",
+      "proc_id": "SYSTEM",
+      "timestamp": "2026-03-02T19:54:27.517804+00:00",
+      "payload": {
+        "username": "Gayan",
+        "role": "bidder",
+        "organisation": "BCC",
+        "key_fingerprint": "7F733D458F892FB4"
+      },
+      "entry_hash": "f66533d6376af72d88e353ccfc85faf6832a0949cba1f87c84e367c092f269c9",
+      "chain_hash": "d827760c83ae933421cd86ec842f8d39818bc2157dfca07a246fa9c94bdd33d4",
+      "hmac_sig": "b51e9a407661f8d7703e899e45ef222b6d54b45850bba9a751a7b12d4c124255",
+      "ts_token": {
+        "issued_at": "2026-03-02T19:54:27.518014+00:00",
+        "data_hash": "f66533d6376af72d88e353ccfc85faf6832a0949cba1f87c84e367c092f269c9",
+        "tsa_token": "05a4a27fa279cc45b3740466ad444f4d9aefd5e1a5042e8040bbc42420386724"
+      }
+    },
+    {
+      "seq": 4,
+      "event_type": "USER_REGISTERED",
+      "actor": "EA",
+      "proc_id": "SYSTEM",
+      "timestamp": "2026-03-02T19:55:31.371900+00:00",
+      "payload": {
+        "username": "EA",
+        "role": "evaluator",
+        "organisation": "eval_t",
+        "key_fingerprint": "9A46A29FBC712D75"
+      },
+      "entry_hash": "cd4c834b697f3a86d4640ee5c5559006aa03bd5bde566b568c353da03ebb654b",
+      "chain_hash": "361d6705977ec4af060d9a8941d4e1c00a37b891b08d02e20d10a5bafda7cc2b",
+      "hmac_sig": "1a46b9e821b1e98350cb6854c508bbdd66f3ebf1f49952087e16afead016fea8",
+      "ts_token": {
+        "issued_at": "2026-03-02T19:55:31.372130+00:00",
+        "data_hash": "cd4c834b697f3a86d4640ee5c5559006aa03bd5bde566b568c353da03ebb654b",
+        "tsa_token": "b130dae286ab0923b99e7af18e59eba0203b6f6222701658a836baa1f5e17a20"
+      }
+    },
+    {
+      "seq": 5,
+      "event_type": "USER_LOGIN",
+      "actor": "Bhanuka",
+      "proc_id": "SYSTEM",
+      "timestamp": "2026-03-02T19:56:19.573060+00:00",
+      "payload": {
+        "username": "Bhanuka",
+        "role": "authority"
+      },
+      "entry_hash": "f2ce21f75647e4e13816bdc107f375cb7f3bde6fbcfcd5acc689ac1b4b8c0e93",
+      "chain_hash": "ead45ed2d1ba015b4f6dbbc54415b6052d314c7ad790d5517891490e51913a10",
+      "hmac_sig": "e914bd5c59cd151088f35d18da445261beb447532efc2774050536cba59367bd",
+      "ts_token": {
+        "issued_at": "2026-03-02T19:56:19.573327+00:00",
+        "data_hash": "f2ce21f75647e4e13816bdc107f375cb7f3bde6fbcfcd5acc689ac1b4b8c0e93",
+        "tsa_token": "f217e3fe3f0cc60c19b162866c2d7b2faea272ceba1b05d2a026d4fa8c6fbfb1"
+      }
+    },
+    {
+      "seq": 6,
+      "event_type": "USER_LOGOUT",
+      "actor": "Bhanuka",
+      "proc_id": "SYSTEM",
+      "timestamp": "2026-03-02T19:58:41.152739+00:00",
+      "payload": {
+        "username": "Bhanuka"
+      },
+      "entry_hash": "494e7a6d3ee4e9f11ce1c1cd2f38c4ca053e8367db0b25c9b2536bbf2c1a3927",
+      "chain_hash": "0bceb4a6e880bcd1d52e99f0abbc3af780685524c067b2e6e54b8ebc3e66313d",
+      "hmac_sig": "b40215fd05db55ef9ecf5ebaa10adc2dc77d280a955cfbcd6f086556879413a4",
+      "ts_token": {
+        "issued_at": "2026-03-02T19:58:41.152968+00:00",
+        "data_hash": "494e7a6d3ee4e9f11ce1c1cd2f38c4ca053e8367db0b25c9b2536bbf2c1a3927",
+        "tsa_token": "4849d71527c38b5c391b30a0ef4f8595ad7e9ec87f786775889cf202988c3a8d"
+      }
+    },
+    {
+      "seq": 7,
+      "event_type": "USER_LOGIN",
+      "actor": "Jaliya",
+      "proc_id": "SYSTEM",
+      "timestamp": "2026-03-02T19:59:26.107374+00:00",
+      "payload": {
+        "username": "Jaliya",
+        "role": "bidder"
+      },
+      "entry_hash": "10443def9bc8b019e366aa0b44cd51957ea3bcba14336c26f9ed9b0dab69e942",
+      "chain_hash": "9141520c63d4c95b9a309bdcbfa2cb08bd8833909e8e7e5ffd75655ff6697262",
+      "hmac_sig": "6a484f72563411b2d0b50df931d69792626b5d39ccdc1f597dec69d036974c4d",
+      "ts_token": {
+        "issued_at": "2026-03-02T19:59:26.107754+00:00",
+        "data_hash": "10443def9bc8b019e366aa0b44cd51957ea3bcba14336c26f9ed9b0dab69e942",
+        "tsa_token": "79c1ce01b66a9e544aeeb8f6cf95ca141f3461232489df2367cce79063965b68"
+      }
+    },
+    {
+      "seq": 8,
+      "event_type": "USER_LOGIN",
+      "actor": "Bhanuka",
+      "proc_id": "SYSTEM",
+      "timestamp": "2026-03-02T20:02:40.581099+00:00",
+      "payload": {
+        "username": "Bhanuka",
+        "role": "authority"
+      },
+      "entry_hash": "b380a5750bb41e6063d29d44996a6df467b0a0046b747650e70d2b07b1999717",
+      "chain_hash": "d17f68d5ccc6d4060710899b9251cb8622cb369ca965bf87a6de51aa73e3dcbb",
+      "hmac_sig": "9dd679633f7d8c654bce52d842af40f67581c998a264e2a47092abb98df2fec5",
+      "ts_token": {
+        "issued_at": "2026-03-02T20:02:40.581330+00:00",
+        "data_hash": "b380a5750bb41e6063d29d44996a6df467b0a0046b747650e70d2b07b1999717",
+        "tsa_token": "8bba7c4da8bb1a834c8f3253f55d0c0f3f9dccbbc52f067c570f787286c5b60b"
+      }
+    },
+    {
+      "seq": 9,
+      "event_type": "PROCUREMENT_CREATED",
+      "actor": "Bhanuka",
+      "proc_id": "PROC-2026-E4B05B",
+      "timestamp": "2026-03-02T20:08:21.476083+00:00",
+      "payload": {
+        "title": "Hope",
+        "category": "A",
+        "budget": 234000.0,
+        "deadline": "2026-03-03 01:39"
+      },
+      "entry_hash": "a7a8fe34c1dd72df468da59c38f6b4e131fd230a19a11eb68af3e6efb61fb1b2",
+      "chain_hash": "6f260c0bf3cfd0863fa3322cb4d938e785c2766d723163a202bb76078792f47a",
+      "hmac_sig": "0d80f8c77b4fb8d931c7cd1333764b77bb9a9317dfe1a8b3ccd165fe92f0ba12",
+      "ts_token": {
+        "issued_at": "2026-03-02T20:08:21.476348+00:00",
+        "data_hash": "a7a8fe34c1dd72df468da59c38f6b4e131fd230a19a11eb68af3e6efb61fb1b2",
+        "tsa_token": "0a57fbcc3da5d8fa6c01c5f74aaf3b904ccbeae0608b1af2b2f4a59969671ba9"
+      }
+    },
+    {
+      "seq": 10,
+      "event_type": "USER_LOGOUT",
+      "actor": "Bhanuka",
+      "proc_id": "SYSTEM",
+      "timestamp": "2026-03-02T20:08:46.956957+00:00",
+      "payload": {
+        "username": "Bhanuka"
+      },
+      "entry_hash": "053234a2c421055788ea983f036144e6d61c4e32ba527bc366184ca9300c06c1",
+      "chain_hash": "17c751321b6d028b44d8ed1fea7c809857054136d9362da4fa7136b773cad72e",
+      "hmac_sig": "785b95d5ce5aa9e7b6733d9b892b4c1764c288cc0ce93aae69767420b6910dd6",
+      "ts_token": {
+        "issued_at": "2026-03-02T20:08:46.957258+00:00",
+        "data_hash": "053234a2c421055788ea983f036144e6d61c4e32ba527bc366184ca9300c06c1",
+        "tsa_token": "4c871d13ac133b48279677e46243cb4e0d683b90e1082a3a80a8053f4aafeb84"
+      }
+    },
+    {
+      "seq": 11,
+      "event_type": "USER_LOGIN",
+      "actor": "Jaliya",
+      "proc_id": "SYSTEM",
+      "timestamp": "2026-03-02T20:09:12.079557+00:00",
+      "payload": {
+        "username": "Jaliya",
+        "role": "bidder"
+      },
+      "entry_hash": "f2c81aec944b8b72dc85cc1ced848f388e946b7747e7b67f5a3b0fac890e8e49",
+      "chain_hash": "c9655b9ee55eb91763a82c58f927917eae45e38af33e69d2be81315a9c1eb1ab",
+      "hmac_sig": "11b76e776c1f8fb95892a82cc77f05f611725f5528e0d9fd0c489d7b6e254a79",
+      "ts_token": {
+        "issued_at": "2026-03-02T20:09:12.079897+00:00",
+        "data_hash": "f2c81aec944b8b72dc85cc1ced848f388e946b7747e7b67f5a3b0fac890e8e49",
+        "tsa_token": "99bd1887ed51a301afe3f407ab99baba766d14b77cede6e251bf38d14f043540"
+      }
+    },
+    {
+      "seq": 12,
+      "event_type": "BID_SUBMITTED",
+      "actor": "Jaliya",
+      "proc_id": "PROC-2026-E4B05B",
+      "timestamp": "2026-03-02T20:11:53.425563+00:00",
+      "payload": {
+        "envelope_id": "ENV-528BF96F7C10",
+        "commitment": "b0f315393730e1da873dea447f8a1019019714ee3ce864a07f8343689d3f4b3a",
+        "key_fingerprint": "crypto_engine"
+      },
+      "entry_hash": "e11cc647c64b3dfced087a5d2a1500e7b20cf95d200cf4a1a185a8b15a45761c",
+      "chain_hash": "6cb98b0ae9f39db2c1ab62f3d7a871e4e6f464a69294e651015ca9f1e08c678a",
+      "hmac_sig": "932a479fea0d96edd4ce3ff3820793b4a8457b792c5a6a3cbbdc35cad27529c5",
+      "ts_token": {
+        "issued_at": "2026-03-02T20:11:53.425788+00:00",
+        "data_hash": "e11cc647c64b3dfced087a5d2a1500e7b20cf95d200cf4a1a185a8b15a45761c",
+        "tsa_token": "947dcbb8dedeb4b6ec1a94469caae98290ee735ecf2ee02ba66cc331129b3b28"
+      }
+    }
+  ]
+}
